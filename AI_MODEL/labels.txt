@@ -1,0 +1,20 @@
+0 Bye
+1 Call
+2 Good Luck
+3 Hello
+4 I Love You
+5 Left
+6 Loser
+7 Nice
+8 No
+9 Not okay 
+10 Ok
+11 Peace
+12 Please
+13 Power
+14 Right
+15 Rock
+16 Smile
+17 Stop
+18 Thank you
+19 Yes
